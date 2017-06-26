@@ -1,3 +1,3 @@
-## Fizzbuzz pairing excercise##
+## Fizzbuzz pairing excercise
 
-Fizzbuzz excercise - week 4, pairing and rspec basics with \@esully.
+Fizzbuzz excercise - week 4, pairing and rspec basics with @esully.
